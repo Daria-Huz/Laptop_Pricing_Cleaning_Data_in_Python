@@ -19,6 +19,9 @@ This dataset is a collection of features related to various laptops, such as bra
 6. Data Normalization
 
 7.  Binning
+   
+9.  Indicator variables
+
 
    # Parameters
 
@@ -79,4 +82,3 @@ The weight of the laptop is in kgs.
 The price of the laptop is in USD.
 
 
-9. Indicator variables
